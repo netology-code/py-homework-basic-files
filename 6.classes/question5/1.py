@@ -8,7 +8,7 @@ class Student:
         self.grades = {}
  
     def add_courses(self, course_name):
-        self.finished_course.append(course_name)    
+        self.finished_courses.append(course_name)    
  
  
 class Mentor:
